@@ -4,7 +4,7 @@ class Sum{
         Sum obj=new Sum();
         System.out.println(obj.s);
 
-        int d=9;
+        int d=90;
 
         int j=8;
 
