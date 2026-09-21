@@ -6,7 +6,7 @@ class Sum{
 
         int d=90;
 
-        int j=8;
+        
 
     }
 }
